@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import heroImage from '../../image/hero2.jpeg';
 import aboutImage from '../../image/about.jpeg';
 import apparelImage from '../../image/apparel.jpeg';
-import bot from '../../image/bot.jpeg';
+import bot from '../../image/bride.jpeg';
 import sove from '../../image/sov.jpeg';
 import brandImage from '../../image/brand.jpeg';
 import adesolaImage from '../../image/adesola.jpeg';
